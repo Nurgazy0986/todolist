@@ -1,0 +1,188 @@
+.body
+{
+    background: #B0C7D8;
+}
+ul{
+    list-style-type: none;
+}
+
+.tel{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 40px 0;
+
+}
+
+.cart{
+
+    background: url('/img/unsplash_Bq7nHY4trGA.png') no-repeat center/cover;
+   width: 400px;
+   height: 850px;
+   border-radius: 30px;
+}
+.bol{
+    background: url('/img/unsplash_Bq7nHY4trGA.png') no-repeat center/cover;
+    width: 400px;
+    height: 850px;
+    border-radius: 30px;
+}
+.three{
+    background: rgb(43, 52, 109);
+    width: 380px;
+    height: 230px;
+    border-radius: 20px;
+    margin: 0 10px;
+}
+.ul1{
+    position: absolute;
+    margin: 110px 10px 10px 40px;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: wheat;
+    font-size: 20px;
+
+}
+.ul{
+    position: absolute;
+    margin: 170px 10px 10px 35px;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: wheat;
+    font-size: 20px;
+}
+.p1{
+     color: rgb(226, 225, 225);
+     position: absolute;
+     margin: 80px 10px 10px 70px;
+     font-size: 15px;
+}
+.p2{
+     color: rgb(226, 225, 225);
+     position: absolute;
+     margin: 145px 10px 10px 70px;
+     font-size: 15px;
+}
+
+.one{
+    margin: 50px 0;
+}
+.one h1{
+    text-align: center;
+    color: wheat;
+
+}
+.one p{
+    text-align: center;
+    color: wheat;
+    font-size: 25px;
+
+}
+.img2{
+    margin: 40px 63px 0 91px;
+}
+.img1{
+    margin: 5px 90px 0 30px;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+.btn1{
+    background: none;
+    border-radius: 30px;
+    border: none;
+    color: rgb(240, 164, 21) ;
+    font-size: 20px;
+    padding: 5px 10px;
+    transition: .4s;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.two p{
+    color: wheat;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+
+}
+.btn2{
+    background: rgb(240, 164, 21);
+    border-radius: 30px;
+    border: none;
+    color: wheat;
+    font-size: 30px;
+    padding: 5px 40px;
+    margin: 230px 0 0 99px;
+    transition: .4s;
+    &:hover{
+        transform: scale(1.1);
+    }
+    
+}
+
+.bol h1{
+    color: white;
+    text-align: center;
+    margin: 60px 0;
+}
+
+.group{
+    background: white;
+    width: 340px;
+    height: 480px;
+    border-radius: 15px;
+    margin: 60px 10px;
+}
+.group h4{
+    color: rgb(240, 164, 21);
+    margin: 20px 0 0 0;
+    font-size: 20px;
+    padding: 30px 180px 20px 0;
+
+}
+
+.bol button{
+    background: rgb(240, 164, 21);
+    border-radius: 30px;
+    border: none;
+    color: wheat;
+    font-size: 30px;
+    padding: 3px 70px;
+    margin: 0px 0 0 120px;
+    transition: .4s;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.group1 p{
+    color: rgb(226, 225, 225);
+    padding: 0 260px 0 0;
+
+} 
+.group2 p{
+    color: rgb(226, 225, 225);
+    padding: 30px 210px 0 0;
+    
+}
+.inputName{
+    border: none;
+    outline: none;
+    background: transparent;
+    color: black;
+    font-size: 20px;
+}
+.inputNum{
+    border: none;
+    outline: none;
+    background: transparent;
+    color: black;
+    font-size: 20px;
+}
+ 
+
